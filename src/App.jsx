@@ -8,9 +8,6 @@ function App() {
 
   return (
     <>
-    <h1>
-      hello vishva
-    </h1>
     <AddTodo />
     <Todos />
     </>
